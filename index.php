@@ -63,6 +63,12 @@
         
       </div>
     </div>
+    
+    <div class="bills"> <!-- div.clas+tab img*3+tab-->
+      <img src="img/50rub.jpg"  alt="">
+      <img src="img/100rub.jpg" alt="">
+      <img src="img/500rub.jpg" alt="">
+    </div>
 
     <!-- Optional JavaScript -->
     <script src="script.js"></script>
